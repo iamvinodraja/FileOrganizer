@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Virtual env
+venv/
+env/
+
+# Logs & app generated files
+*.log
+*.txt
+*.json
+
+# macOS
+.DS_Store
+
+# PyInstaller / py2app build folders
+build/
+dist/
+*.spec
+
+# App data folder
+.ultimate_file_organizer/

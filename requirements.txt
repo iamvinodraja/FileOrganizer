@@ -1,0 +1,7 @@
+watchdog
+plyer
+playsound
+tkinterdnd2
+dropbox
+scikit-learn
+joblib
